@@ -29,6 +29,7 @@ namespace SeleniumTests
         [TearDown]
         public void CloseDriver()
         {
+            Driver.Close();
             Driver.Quit();
         }
 
@@ -57,6 +58,7 @@ namespace SeleniumTests
         [TearDown]
         public void CloseDriver()
         {
+            Driver.Close();
             Driver.Quit();
         }
         
@@ -85,6 +87,7 @@ namespace SeleniumTests
         [TearDown]
         public void CloseDriver()
         {
+            Driver.Close();
             Driver.Quit();
         }
     }
