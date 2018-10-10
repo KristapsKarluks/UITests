@@ -1,0 +1,15 @@
+C:\Users\kkarluks\Desktop\UITests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\kkarluks\Desktop\UITests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\kkarluks\Desktop\UITests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\kkarluks\Desktop\UITests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\kkarluks\Desktop\UITests\bin\Debug\netcoreapp2.1\SeleniumParallelTest.deps.json
+C:\Users\kkarluks\Desktop\UITests\bin\Debug\netcoreapp2.1\SeleniumParallelTest.runtimeconfig.json
+C:\Users\kkarluks\Desktop\UITests\bin\Debug\netcoreapp2.1\SeleniumParallelTest.runtimeconfig.dev.json
+C:\Users\kkarluks\Desktop\UITests\bin\Debug\netcoreapp2.1\SeleniumParallelTest.dll
+C:\Users\kkarluks\Desktop\UITests\bin\Debug\netcoreapp2.1\SeleniumParallelTest.pdb
+C:\Users\kkarluks\Desktop\UITests\obj\Debug\netcoreapp2.1\SeleniumParallelTest.csprojAssemblyReference.cache
+C:\Users\kkarluks\Desktop\UITests\obj\Debug\netcoreapp2.1\SeleniumParallelTest.csproj.CoreCompileInputs.cache
+C:\Users\kkarluks\Desktop\UITests\obj\Debug\netcoreapp2.1\SeleniumParallelTest.AssemblyInfoInputs.cache
+C:\Users\kkarluks\Desktop\UITests\obj\Debug\netcoreapp2.1\SeleniumParallelTest.AssemblyInfo.cs
+C:\Users\kkarluks\Desktop\UITests\obj\Debug\netcoreapp2.1\SeleniumParallelTest.dll
+C:\Users\kkarluks\Desktop\UITests\obj\Debug\netcoreapp2.1\SeleniumParallelTest.pdb
