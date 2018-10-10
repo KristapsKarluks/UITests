@@ -1,0 +1,15 @@
+C:\Users\kkarluks\Desktop\UITests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\kkarluks\Desktop\UITests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\kkarluks\Desktop\UITests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\kkarluks\Desktop\UITests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\kkarluks\Desktop\UITests\bin\Debug\netcoreapp2.1\SeleniumTests.deps.json
+C:\Users\kkarluks\Desktop\UITests\bin\Debug\netcoreapp2.1\SeleniumTests.runtimeconfig.json
+C:\Users\kkarluks\Desktop\UITests\bin\Debug\netcoreapp2.1\SeleniumTests.runtimeconfig.dev.json
+C:\Users\kkarluks\Desktop\UITests\bin\Debug\netcoreapp2.1\SeleniumTests.dll
+C:\Users\kkarluks\Desktop\UITests\bin\Debug\netcoreapp2.1\SeleniumTests.pdb
+C:\Users\kkarluks\Desktop\UITests\obj\Debug\netcoreapp2.1\SeleniumTests.csprojAssemblyReference.cache
+C:\Users\kkarluks\Desktop\UITests\obj\Debug\netcoreapp2.1\SeleniumTests.csproj.CoreCompileInputs.cache
+C:\Users\kkarluks\Desktop\UITests\obj\Debug\netcoreapp2.1\SeleniumTests.AssemblyInfoInputs.cache
+C:\Users\kkarluks\Desktop\UITests\obj\Debug\netcoreapp2.1\SeleniumTests.AssemblyInfo.cs
+C:\Users\kkarluks\Desktop\UITests\obj\Debug\netcoreapp2.1\SeleniumTests.dll
+C:\Users\kkarluks\Desktop\UITests\obj\Debug\netcoreapp2.1\SeleniumTests.pdb

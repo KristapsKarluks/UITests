@@ -3,7 +3,7 @@ using System.Threading;
 using NUnit.Framework;
 using OpenQA.Selenium;
 
-namespace SeleniumParallelTest
+namespace SeleniumTests
 {
 
     [TestFixture]
@@ -89,5 +89,5 @@ namespace SeleniumParallelTest
         }
     }
 
-    
+
 }

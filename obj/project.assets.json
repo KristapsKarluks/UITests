@@ -5641,9 +5641,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kkarluks\\Desktop\\UITests\\SeleniumParallelTest.csproj",
-      "projectName": "SeleniumParallelTest",
-      "projectPath": "C:\\Users\\kkarluks\\Desktop\\UITests\\SeleniumParallelTest.csproj",
+      "projectUniqueName": "C:\\Users\\kkarluks\\Desktop\\UITests\\SeleniumTests.csproj",
+      "projectName": "SeleniumTests",
+      "projectPath": "C:\\Users\\kkarluks\\Desktop\\UITests\\SeleniumTests.csproj",
       "packagesPath": "C:\\Users\\kkarluks\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\kkarluks\\Desktop\\UITests\\obj\\",
       "projectStyle": "PackageReference",

@@ -2,14 +2,17 @@ using NUnit.Framework;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.Edge;
+using OpenQA.Selenium.Opera;
+using OpenQA.Selenium.Remote;
 
-namespace SeleniumParallelTest
+namespace SeleniumTests
 {
     public enum BrowserType
     {
         Chrome,
         Firefox,
-        Edge
+        Edge,
+        Opera
     } 
 
     [TestFixture]

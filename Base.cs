@@ -1,6 +1,6 @@
 using OpenQA.Selenium;
 
-namespace SeleniumParallelTest
+namespace SeleniumTests
 {
     public class Base
     {

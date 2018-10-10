@@ -13,7 +13,7 @@ using System.Reflection;
 using System.Drawing;
 using OpenQA.Selenium.Support;
 
-namespace SeleniumParallelTest
+namespace SeleniumTests
 {
     class Helpers
     {
